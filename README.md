@@ -1,16 +1,46 @@
-## Hi there 👋
+[README.md](https://github.com/user-attachments/files/26759453/README.md)
+# Привет, я Ислам 👾
 
-<!--
-**Islamsc/Islamsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Я должен добиться успеха"* — и я над этим работаю 🔥
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Кто я такой
+
+🔰 Начинающий разработчик  
+💡 Иногда мой код работает. Я сам удивлён.  
+🔍 В процессе: учусь, гуглю, снова учусь.  
+🤝 Открыт к общению, советам и ссылкам на хорошие туториалы.  
+⚔️ Аватарка — самурай. Потому что путь к коду — это путь воина.
+
+---
+
+## 🛠️ Мой арсенал
+
+```text
+Знаю:        ████░░░░░░  Пока изучаю
+Гугл:        ██████████  Мастер
+Stack Overflow: █████████░  Почти профи
+Git:         ████░░░░░░  Иногда не ломаю
+```
+
+---
+
+## 🎯 Цели на этот год
+
+- [ ] Написать код, который поймут другие люди
+- [ ] Сделать первый пет-проект
+- [ ] Не бояться `git push --force`
+- [ ] Стать крутым разработчиком. Желательно до пенсии.
+
+---
+
+## 📊 GitHub Stats
+
+![Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Исламск&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Связаться со мной
+
+Пиши — отвечу. Наверное. Если не отлаживаю что-то 🐛
